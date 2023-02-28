@@ -36,8 +36,12 @@ http://localhost:8000/
 Для работы с API проекта Yatube вы можете использовать следующие примеры запросов:
 
  
-```bash
+```bash 
 1. GET /api/v1/posts/
+{
+  "text" : "Текст поста",
+    "image" : "image.jpg",
+}
 ```
 
 ```bash
