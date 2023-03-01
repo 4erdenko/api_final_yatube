@@ -39,7 +39,7 @@ http://localhost:8000/
 ```bash 
 1. GET /api/v1/posts/
 {
-  "text" : "Текст поста",
+    "text" : "Текст поста",
     "image" : "image.jpg",
 }
 ```
@@ -62,6 +62,7 @@ http://localhost:8000/
 
 ```bash
 4. DELETE /api/v1/posts/<post_id>/
+200 OK
 ```
 
 Это лишь некоторые из возможностей API проекта Yatube, для более подробной информации и примеров запросов смотрите документацию к API.
