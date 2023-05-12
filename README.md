@@ -1,10 +1,12 @@
 # Project Description
 
-Yatube is a social network for posting content and communication. With Yatube, you can register, create a profile, publish posts with text and images, and comment and follow other users' posts.
+YatubeAPI is an integral part of a broader social networking project, serving as its API for content posting and communication. By registering and creating a profile, users can publish text and image posts, as well as comment and follow posts from other users.
 
-The Yatube project aims to provide users with the ability to exchange information, opinions, and ideas in a convenient format, as well as find interesting authors and follow their creative work.
 
-The benefit of the project is that it provides a simple and convenient way for communication and content sharing. With Yatube, you can quickly and easily share your thoughts, ideas, and images while discovering opinions and comments from other users.
+The primary objective of the Yatube API is to facilitate the exchange of information, views, and ideas in a streamlined format. It enables users to find interesting authors and stay updated on their creative work.
+
+
+This API enhances the main project by providing a straightforward and convenient platform for communication and content sharing. With Yatube, users can swiftly share their thoughts, ideas, and images, and engage with feedback from the community. It's an essential component, contributing to the dynamic interaction of the overall project.
 
 # Installation
 
